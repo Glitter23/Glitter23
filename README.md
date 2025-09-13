@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Glitter23 👋
+
+**Project Associate at Cognizant**
+
+---
+
+### 💡 About Me
+Enthusiastic about tech and continuous learning. I’m always exploring new ways to solve problems and build impactful solutions.
+
+### 🛠️ Skills
+- Python
+- SQL
+
+### 🚀 Featured Projects
+- [BinaryClassification](https://github.com/Glitter23/BinaryClassification)
+- [welcome-to-docker](https://github.com/Glitter23/welcome-to-docker)
+- [multi-container-app](https://github.com/Glitter23/multi-container-app)
+- [continuous-integration-circle](https://github.com/Glitter23/continuous-integration-circle)
+- [react-portfolio-website](https://github.com/Glitter23/react-portfolio-website)
+
+### 🌱 Fun Fact
+I love to go for walks to reduce stress!
+
+---
 
 <!--
-**Glitter23/Glitter23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to connect or check out my repos. Let's keep learning together!
 -->
