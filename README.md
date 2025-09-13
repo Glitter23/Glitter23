@@ -1,6 +1,6 @@
 # Hi there, I'm Glitter23 👋
 
-**Project Associate at Cognizant**
+**Project Associate **
 
 ---
 
